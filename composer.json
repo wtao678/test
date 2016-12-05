@@ -1,0 +1,6 @@
+{
+	"name":"wtao678/test",
+	"require": {
+		"php": ">=5.4.0",
+	}
+}
